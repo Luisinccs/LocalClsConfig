@@ -6,6 +6,7 @@
 # Archivos solo locales
 LocalClsConfig.local/
 Ensamblado/
+.DS_Store
 
 # User-specific files
 *.rsuser
